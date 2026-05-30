@@ -1,0 +1,11 @@
+export { default as About } from "./About";
+export { default as Blog } from "./Blog";
+export { default as Careers } from "./Careers";
+export { default as CaseStudies } from "./CaseStudies";
+export { default as Contact } from "./Contact";
+export { default as Differentiators } from "./Differentiators";
+export { default as FAQ } from "./FAQ";
+export { default as Hero } from "./Hero";
+export { default as Industries } from "./Industries";
+export { default as Services } from "./Services";
+export { default as Solutions } from "./Solutions";

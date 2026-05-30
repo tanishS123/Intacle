@@ -28,9 +28,9 @@ export default function Footer() {
         <div>
           <h3 className="text-sm font-black uppercase tracking-[0.28em] text-zinc-500 dark:text-zinc-400">Connect</h3>
           <div className="mt-5 grid gap-4 text-zinc-600 dark:text-zinc-400">
-            <a className="flex items-center gap-3 hover:text-intacle-blue" href="mailto:hello@intacle.com">
+            <a className="flex items-center gap-3 hover:text-intacle-blue" href="mailto:contact@intacle.com">
               <Mail className="h-5 w-5" />
-              hello@intacle.com
+              contact@intacle.com
             </a>
             <a className="flex items-center gap-3 hover:text-intacle-blue" href="tel:+12125550184">
               <Phone className="h-5 w-5" />
@@ -38,7 +38,7 @@ export default function Footer() {
             </a>
             <span className="flex items-center gap-3">
               <MapPin className="h-5 w-5" />
-              United States
+              Calgary Alberta, Canada
             </span>
             <a className="flex items-center gap-3 hover:text-intacle-blue" href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
               <Linkedin className="h-5 w-5" />

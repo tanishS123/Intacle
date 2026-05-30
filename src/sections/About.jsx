@@ -11,7 +11,7 @@ export default function About() {
           <SectionHeading
             eyebrow="About Intacle"
             title="Senior SAP advisors for enterprise leaders who cannot afford ambiguity."
-            body="Intacle brings a disciplined consulting model to mission-critical SAP work: clear executive narratives, pragmatic delivery governance, and precise execution across business and technology teams."
+            body="Intacle brings a disciplined consulting model to mission-critical SAP work: clear executive narratives, pragmatic delivery governance, and precise execution across  business and technology teams."
           />
           <div className="mt-10 divide-y divide-zinc-200 dark:divide-white/10">
             {principles.map((item, index) => (

@@ -17,15 +17,15 @@ export default function Contact() {
           <div className="mt-10 grid gap-4 text-zinc-600 dark:text-zinc-300">
             <a href="mailto:hello@intacle.com" className="flex items-center gap-3 hover:text-intacle-blue">
               <Mail className="h-5 w-5" />
-              hello@intacle.com
+              Contact@intacle.com
             </a>
-            <a href="tel:+12125550184" className="flex items-center gap-3 hover:text-intacle-blue">
+            {/* <a href="tel:+12125550184" className="flex items-center gap-3 hover:text-intacle-blue">
               <Phone className="h-5 w-5" />
               +1 212 555 0184
-            </a>
+            </a> */}
             <span className="flex items-center gap-3">
               <MapPin className="h-5 w-5" />
-              United States
+              Canada and India
             </span>
           </div>
         </Reveal>

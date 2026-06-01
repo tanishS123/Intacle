@@ -28,7 +28,7 @@ export default function Hero() {
             className="inline-flex items-center gap-3 border border-intacle-blue bg-black/85 px-5 py-3 text-xs font-black uppercase tracking-[0.32em] text-white shadow-blue backdrop-blur dark:bg-black/80"
           >
             <CheckCircle2 className="h-4 w-4" />
-            US-based SAP consulting
+            North-America based SAP consulting
           </motion.div>
           <motion.h1
             initial={{ opacity: 0, y: 26 }}

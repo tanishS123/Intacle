@@ -32,7 +32,7 @@ export const navItems = [
 
 export const stats = [
   { value: "S/4HANA", label: "transformation focus" },
-  { value: "US-led", label: "enterprise delivery" },
+  { value: "Top-leads", label: "enterprise delivery" },
   { value: "24/7", label: "SAP continuity mindset" },
 ];
 
@@ -126,10 +126,11 @@ export const caseStudies = [
 ];
 
 export const roles = [
+  "SAP BTP Integration Specialist",
   "SAP Solution Architect",
   "S/4HANA Program Lead",
   "SAP Data Migration Consultant",
-  "SAP BTP Integration Specialist",
+  
 ];
 
 export const blogPosts = [

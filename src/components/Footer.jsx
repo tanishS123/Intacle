@@ -32,15 +32,15 @@ export default function Footer() {
               <Mail className="h-5 w-5" />
               contact@intacle.com
             </a>
-            <a className="flex items-center gap-3 hover:text-intacle-blue" href="tel:+12125550184">
+            {/* <a className="flex items-center gap-3 hover:text-intacle-blue" href="tel:+12125550184">
               <Phone className="h-5 w-5" />
               +1 212 555 0184
-            </a>
+            </a> */}
             <span className="flex items-center gap-3">
               <MapPin className="h-5 w-5" />
-              Calgary Alberta, Canada
+              Canada & India
             </span>
-            <a className="flex items-center gap-3 hover:text-intacle-blue" href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+            <a className="flex items-center gap-3 hover:text-intacle-blue" href="https://www.linkedin.com/company/intacle-technologies/" target="_blank" rel="noreferrer">
               <Linkedin className="h-5 w-5" />
               LinkedIn
             </a>

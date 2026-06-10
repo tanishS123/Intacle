@@ -8,9 +8,14 @@ export default function Logo() {
       aria-label="Intacle home"
     >
       <img
-        src="/assets/logo-new.png"
+        src="/assets/intacle_logo.png"
         alt="Intacle Logo"
-        className="h-[90px] md:h-[100px] lg:h-[110px] w-auto object-contain"
+        className="h-[140px] md:h-[100px] lg:h-[110px] w-auto object-contain dark:hidden"
+      />
+      <img
+        src="/assets/Intacle_dark_logo.png"
+        alt="Intacle Logo"
+        className="hidden h-[140px] md:h-[100px] lg:h-[110px] w-auto object-contain dark:block"
       />
     </a>
   );
